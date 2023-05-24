@@ -18,7 +18,6 @@ service:
     ports:
       main:
         port: 8334
-        protocol: tcp
         targetPort: 8334
 
 portal:
