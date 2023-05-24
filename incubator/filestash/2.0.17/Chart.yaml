@@ -9,7 +9,7 @@ appVersion: "latest"
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org
-    version: 11.1.2
+    version: 12.9.5
 deprecated: false
 description: A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 home: https://truecharts.org/charts/incubator/filestash
@@ -29,4 +29,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/incubator/filestash
   - https://www.filestash.app/
 type: application
-version: 2.0.17
+version: 2.0.18
